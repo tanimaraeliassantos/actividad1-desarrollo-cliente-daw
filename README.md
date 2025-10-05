@@ -1,6 +1,6 @@
 # AGOODSHOP APP
 
-AgoodShop, es una pantalla de pedidos digital creada para gestionar la venta de juegos de mesa. Su función principal es mostrar una lista de productos junto a un resumen de la compra en la misma vista. El diseño está construido con Bootstrap, lo que significa que el contenido se adaptará automáticamente para verse bien en cualquier pantalla.
+AgoodShop es una pantalla de pedidos digital creada para gestionar la venta de juegos de mesa. Su función principal es mostrar una lista de productos junto a un resumen de la compra en la misma vista. El diseño está construido con Bootstrap, lo que significa que el contenido se adaptará automáticamente para verse bien en cualquier pantalla.
 
 ## Características principales de la app:
 
